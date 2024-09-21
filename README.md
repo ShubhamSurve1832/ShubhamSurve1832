@@ -4,7 +4,7 @@
 
 🚀 In my spare time, I enjoy contributing to open-source projects and building innovative solutions that solve real-world problems. I specialize in JavaScript, React, and other modern frontend frameworks, always looking for opportunities to explore emerging trends and best practices.
 
-📫 Let's connect! Feel free to reach out to me on LinkedIn to discuss ideas, collaborate on projects, or talk about web development trends. I'm always excited to network with fellow developers and explore new opportunities.
+📫 Let's connect! Feel free to reach out to me on LinkedIn [https://www.linkedin.com/in/shubham-s-000140129/] to discuss ideas, collaborate on projects, or talk about web development trends. I'm always excited to network with fellow developers and explore new opportunities.
 
 🌱 Fun fact: When I'm not coding, you'll likely find me on the field playing cricket or football, balancing my passion for sports with my love for coding.
 
